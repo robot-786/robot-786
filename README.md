@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robot-786
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning C++/C
-- 📫 How to reach me instagram @caviyawr
+- 📫 How to reach me gmail : yasirmoeez007@gmail.com
 
 <!---
 robot-786/robot-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
